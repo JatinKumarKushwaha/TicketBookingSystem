@@ -1,0 +1,8 @@
+# python venv
+pyvenv
+
+# config files
+config
+
+# cache
+__pycache__
